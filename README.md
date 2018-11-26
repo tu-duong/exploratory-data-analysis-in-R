@@ -1,2 +1,2 @@
-# Exploratory Analysis in R
+# Exploratory Data Analysis in R
 This is the final project
